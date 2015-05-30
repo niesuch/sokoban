@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.sokoban.game.MainscreenActivity">
+    
+    <TextView android:id="@+id/welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome in Sokoban Game" />
+
+    <Button
+        android:id="@+id/button_newgame"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="New Game" />
+ 
+    <Button
+        android:id="@+id/button_rules"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Rules" />
+ 
+    <Button
+        android:id="@+id/button_exit"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Exit" />
+ 
+</LinearLayout>
