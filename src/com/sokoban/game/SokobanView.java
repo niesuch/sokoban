@@ -37,7 +37,15 @@ public class SokobanView extends View {
 
 	public SokobanView(Context context) {
 		super(context);
-
+		
+		// LEGEND
+		// 	# - Wall
+		//	$ - Box
+		//	. - Goal
+		//	* - Box on goal
+		//	@ - Pusher
+		// 	+ - Pusher on goal
+		//	S - Floor
 		
 		level = new Level(
 				"#################  " 
