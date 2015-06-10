@@ -20,4 +20,4 @@ If on the way of worker is wall than move is no realized. <br />
 
 ## Links:
 * [Documentation](https://www.dropbox.com/sh/fcgrk5i2vhbxm7l/AAAnpt5DaXzSzQ6IYD2LWao_a?dl=0)
-* [Installation file](https://www.dropbox.com/s/8kmrl0uau0ky4ep/sokoban.apk?dl=0)
+* [Installation file](https://www.dropbox.com/sh/quvgo8h536kwhne/AAB3fXEKf_1u18H9Zai5zDfQa?dl=0)
