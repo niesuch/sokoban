@@ -33,7 +33,7 @@ If on the way of worker is wall than move is no realized. <br />
 ## Installation
 1. You must have Android OS :)
 2. Download installation file from [link](https://www.dropbox.com/sh/quvgo8h536kwhne/AAB3fXEKf_1u18H9Zai5zDfQa?dl=0) section.
-3. Send file on you device.
+3. Send file on your device.
 4. Finally choose installation file and wait for end install process.
 5. Enjoy :)
 
