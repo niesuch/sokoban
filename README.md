@@ -17,3 +17,7 @@ If behind the box is wall than move is not realized. <br />
 If behind the box is marked square box is turns into marked box. <br />
 If marked box is push in no marked floor than it turns into box. <br />
 If on the way of worker is wall than move is no realized. <br />
+
+## Links:
+* [Documentation](https://www.dropbox.com/sh/fcgrk5i2vhbxm7l/AAAnpt5DaXzSzQ6IYD2LWao_a?dl=0)
+* [Installation file](https://www.dropbox.com/s/8kmrl0uau0ky4ep/sokoban.apk?dl=0)
