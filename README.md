@@ -7,8 +7,9 @@
 1. [Description](https://github.com/niesuch/sokoban/blob/master/README.md#description)
 2. [About game](https://github.com/niesuch/sokoban/blob/master/README.md#about-game)
 3. [Links](https://github.com/niesuch/sokoban/blob/master/README.md#links)
-4. [Changelog](https://github.com/niesuch/sokoban/blob/master/README.md#changelog)
-5. [Copyright and license](https://github.com/niesuch/sokoban/blob/master/README.md#copyright-and-license)
+4. [Installation](https://github.com/niesuch/sokoban/blob/master/README.md#installation)
+5. [Changelogs](https://github.com/niesuch/sokoban/blob/master/README.md#changelogs)
+6. [Copyright and license](https://github.com/niesuch/sokoban/blob/master/README.md#copyright-and-license)
 
 ## Description:
 <p>Application will have menu with 1 text view and 3 buttons: NEW GAME, RULES and EXIT. <br />
@@ -29,8 +30,15 @@ If on the way of worker is wall than move is no realized. <br />
 * [Documentation](https://www.dropbox.com/sh/fcgrk5i2vhbxm7l/AAAnpt5DaXzSzQ6IYD2LWao_a?dl=0)
 * [Installation file](https://www.dropbox.com/sh/quvgo8h536kwhne/AAB3fXEKf_1u18H9Zai5zDfQa?dl=0)
 
-## Changelog:
-Logi zmian dostępne są pod tym adresem: [CHANGELOG](https://github.com/niesuch/sokoban/releases)
+## Installation
+1. You must have Android OS :)
+2. Download installation file from [link](https://www.dropbox.com/sh/quvgo8h536kwhne/AAB3fXEKf_1u18H9Zai5zDfQa?dl=0) section.
+3. Send file on you device.
+4. Finally choose installation file and wait for end install process.
+5. Enjoy :)
+
+## Changelogs:
+Click on this link to see changelogs: [CHANGELOG](https://github.com/niesuch/sokoban/releases)
 
 ## Copyright and license:
 Copyright 2015 Niesuch, Inc. Code released under the [MIT license](https://github.com/niesuch/sokoban/blob/master/LICENSE.md).
