@@ -8,7 +8,7 @@
 2. [About game](https://github.com/niesuch/sokoban/blob/master/README.md#about-game)
 3. [Links](https://github.com/niesuch/sokoban/blob/master/README.md#links)
 4. [Installation](https://github.com/niesuch/sokoban/blob/master/README.md#installation)
-5. [Changelogs](https://github.com/niesuch/sokoban/blob/master/README.md#changelogs)
+5. [Changelog](https://github.com/niesuch/sokoban/blob/master/README.md#changelog)
 6. [Copyright and license](https://github.com/niesuch/sokoban/blob/master/README.md#copyright-and-license)
 
 ## Description:
@@ -37,8 +37,8 @@ If on the way of worker is wall than move is no realized. <br />
 4. Finally choose installation file and wait for install process to finish.
 5. Enjoy :)
 
-## Changelogs:
-Click on this link to see changelogs: [CHANGELOG](https://github.com/niesuch/sokoban/releases)
+## Changelog:
+Click on the following link to see the changelog: [CHANGELOG](https://github.com/niesuch/sokoban/releases)
 
 ## Copyright and license:
 Copyright 2015 Niesuch, Inc. Code released under the [MIT license](https://github.com/niesuch/sokoban/blob/master/LICENSE.md).
